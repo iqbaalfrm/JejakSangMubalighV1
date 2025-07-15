@@ -1,0 +1,14 @@
+[
+  {
+    "image": "Materi/Slide_1",
+    "text": "Pada abad ke-13, berdirilah kerajaan Islam pertama di Nusantara, Samudra Pasai. Dipimpin oleh Sultan Malik al-Saleh, kerajaan ini menjadi pusat awal dakwah dan perdagangan Islam di pesisir utara Sumatra."
+  },
+  {
+    "image": "Materi/Slide_2",
+    "text": "Pada abad ke-14, Samudra Pasai mencapai kejayaannya sebagai pusat perdagangan rempah dan dakwah. Kapal-kapal dari Arab, India, dan Tiongkok rutin singgah di pelabuhannya yang strategis."
+  },
+  {
+    "image": "Materi/Slide_3",
+    "text": "Pada awal abad ke-16, kerajaan ini melemah akibat serangan Portugis. Konflik internal dan kerusakan mempercepat keruntuhan. Ulama tetap menjaga warisan Islam dengan menyelamatkan naskah-naskah keilmuan."
+  }
+]

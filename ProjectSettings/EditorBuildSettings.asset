@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LevelSatu.unity
     guid: a6decbe30e1a6bd4ca249a0c3bea6824
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/levelawal.unity
     guid: e66cc6abe7b26c841b9c2bcb3548a00d
   - enabled: 1

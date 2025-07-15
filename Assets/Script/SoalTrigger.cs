@@ -2,15 +2,15 @@ using UnityEngine;
 
 public class SoalTrigger : MonoBehaviour
 {
-    public GameObject panelSoal; // drag panel soal ke sini
+    public SoalManagerLv1 soalManager; // drag SoalManagerLv1 di Inspector
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player")) // pastikan player pakai tag "Player"
+        if (other.CompareTag("Player"))
         {
-            panelSoal.SetActive(true);   // munculkan panel soal
-            Time.timeScale = 0f;         // pause game
-            Destroy(gameObject);         // hilangkan trigger biar gak muncul dua kali
+            soalManager.TampilkanSoalRandom(null);  // tampilkan soal
+            Time.timeScale = 0f;                     // pause game
+            Destroy(gameObject);                     // hancurkan trigger
         }
     }
 }

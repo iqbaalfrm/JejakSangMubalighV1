@@ -1,0 +1,52 @@
+[
+  {
+    "questionText": "Siapakah pendiri Kerajaan Samudera Pasai?",
+    "choices": ["Malikussaleh", "Ibn Battuta", "Hasanuddin"],
+    "correctAnswer": "Malikussaleh"
+  },
+  {
+    "questionText": "Apa nama asli Sultan Malikussaleh sebelum masuk Islam?",
+    "choices": ["Merah Silu", "Ali bin Abu Talib", "Syamsuddin"],
+    "correctAnswer": "Merah Silu"
+  },
+  {
+    "questionText": "Samudera Pasai berada di wilayah provinsi mana saat ini?",
+    "choices": ["Aceh", "Riau", "Sumatera Barat"],
+    "correctAnswer": "Aceh"
+  },
+  {
+    "questionText": "Agama apa yang dijadikan dasar pemerintahan di Samudera Pasai?",
+    "choices": ["Islam", "Hindu", "Buddha"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "questionText": "Siapakah sultan Samudera Pasai setelah Malikussaleh?",
+    "choices": ["Malik al-Zahir", "Malik al-Mansur", "Al-Azhar"],
+    "correctAnswer": "Malik al-Zahir"
+  },
+  {
+    "questionText": "Samudera Pasai berkembang karena letaknya dekat dengan?",
+    "choices": ["Selat Malaka", "Gunung Leuser", "Danau Toba"],
+    "correctAnswer": "Selat Malaka"
+  },
+  {
+    "questionText": "Apa mata uang emas yang dicetak oleh Samudera Pasai?",
+    "choices": ["Dirham", "Rupiah", "Dinar"],
+    "correctAnswer": "Dirham"
+  },
+  {
+    "questionText": "Siapa pengembara asal Maroko yang mengunjungi Samudera Pasai?",
+    "choices": ["Ibn Battuta", "Marco Polo", "Ibnu Sina"],
+    "correctAnswer": "Ibn Battuta"
+  },
+  {
+    "questionText": "Kapan Portugis menyerang Samudera Pasai?",
+    "choices": ["1521", "1500", "1400"],
+    "correctAnswer": "1521"
+  },
+  {
+    "questionText": "Kerajaan mana yang mengambil alih wilayah Samudera Pasai?",
+    "choices": ["Kesultanan Aceh", "Kerajaan Demak", "Majapahit"],
+    "correctAnswer": "Kesultanan Aceh"
+  }
+]
